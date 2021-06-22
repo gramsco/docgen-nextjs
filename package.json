@@ -9,7 +9,17 @@
   "bin": {
     "docgen-next": "./cli.js"
   },
-  "keywords": [],
+  "keywords": [
+    "nextJS",
+    "docgen",
+    "react",
+    "next",
+    "documentation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gramsco/docgen-nextjs"
+  },
   "author": "",
   "license": "ISC"
 }
